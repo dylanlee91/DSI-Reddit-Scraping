@@ -22,7 +22,8 @@ The misclassified posts were investigated
 
 Here are some of the visualized outputs. The rest are in the Jupyter notebook
 
-![Swimcloud](https://github.com/dylanlee91/DSI-Reddit-Scraping/blob/main/images/Swimcloud.png?raw=true)
+![Swimcloud](https://github.com/dylanlee91/DSI-Reddit-Scraping/blob/main/images/swimcloud.png?raw=true)
+
 ![Runcloud](https://github.com/dylanlee91/DSI-Reddit-Scraping/blob/main/images/runcloud.png?raw=true)
 
 ![Runstems](https://github.com/dylanlee91/DSI-Reddit-Scraping/blob/main/images/Runstems.png?raw=true)
